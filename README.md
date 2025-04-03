@@ -13,3 +13,5 @@ Components:
 	5. Playlist: playlist for users
 
 API: I think spotify api but will continue looking.
+
+Design: Im not entierly sure how I want it to look just yet. I want to take some inspiration from other websites such as color pallets and navigation and continue looking around before making a final decision.
